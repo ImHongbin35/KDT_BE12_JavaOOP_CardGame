@@ -1,6 +1,8 @@
 # KDT_BE12_JavaOOP_CardGame
 
-Java OOP 학습용 포커 게임 콘솔 프로그램입니다.
+Java OOP 학습용 포커 게임 콘솔 프로그램입니다. Claude Code로 생성한 버전입니다.
+
+> 직접 작성한 버전은 [KDT_BE12_Java-OOP_Assignment](https://github.com/ImHongbin35/KDT_BE12_Java-OOP_Assignment)에 있습니다.
 
 ## 구성
 
